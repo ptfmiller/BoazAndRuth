@@ -1,0 +1,126 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+
+<title>Boaz and Ruth - </title>
+<base href="http://www.boazandruth.com/">
+<link rel="STYLESHEET" type="text/css" href="styles.css">
+<style>
+	.friendly_heading {border-top:1px solid #043A2F; border-left:1px solid #043A2F; border-right:1px solid #043A2F; background-color:white;}
+	.friendly_table {border:1px solid #043A2F; background-color:white;}
+</style>
+</head>
+
+<body>
+
+<table width="100%" class="friendly_heading" align="center" cellpadding="0" cellspacing="0">
+<tr><td width="145"><a href="friendly.cfm"><img src="images/logo_155w.gif" width="155" height="83" border="0"></a></td>
+	<td align="right" class="fineprint">
+			<div style="margin-right:10pt;">
+			<img src="images/friendly_rebuilding.gif" width="328" height="18" border="0"><br><br>
+			3030 Meadowbridge Road - P. O. Box 6129 - Richmond, Virginia 23222<br>
+			804 329-4900 - info@boazandruth.com - www.boazandruth.com
+			</div>
+		</td></tr>
+</table>
+
+<table width="100%" align="center" cellspacing="10" cellpadding="0" class="friendly_table">
+
+<tr><td valign="top">
+
+		<table width="96%" align="center" cellspacing="10">
+		<tr><td colspan="4" class="headline">Board Members</td></tr>
+
+				<td valign="top" width="115">
+						<img src="photos/persons/_20140423_112358.JPG" width="115" border="1">
+
+				</td>
+				<td valign="top" width="210"><b>Christine Eacho</b>
+
+				</td>
+
+				<td valign="top" width="115">
+						<img src="photos/persons/evans.sml.JPG" width="115" border="1">
+
+				</td>
+				<td valign="top" width="210"><b>Tom Edmonds</b>
+					<br>Member 2002-2013, chair 2009, 2010, Governance Ch.<br> <br><i>Executive Director<br>
+Virginia State Bar (retired)<br>
+<br>
+</i>
+				</td>
+
+				</tr><tr><td colspan="4">&nbsp;</td></tr><tr>
+
+				<td valign="top" width="115">
+						<img src="photos/persons/Larry_Miles_-1.jpg" width="115" border="1">
+
+				</td>
+				<td valign="top" width="210"><b>Rev. Larry Miles</b>
+					<br>Board Member<br> <br><i>Pastor Fresh Anointing Cathedral<br>
+3001 2nd Avenue <br>
+Richmond, VA 23222</i>
+				</td>
+
+				<td valign="top" width="115">
+						<img src="photos/persons/Corell_Halsey_Moore_-_crop.jpg" width="115" border="1">
+
+				</td>
+				<td valign="top" width="210"><b>Corell Halsey Moore</b>
+					<br>Board Member<br> <br><i>Engineering PhD candidate at VCU</i>
+				</td>
+
+				</tr><tr><td colspan="4">&nbsp;</td></tr><tr>
+
+				<td valign="top" width="115">
+						<img src="photos/persons/D_P-Lofton.jpg" width="115" border="1">
+
+				</td>
+				<td valign="top" width="210"><b>Dianna Page-Lofton</b>
+					<br><i>Highland Park Resident and Active Community Member <br>
+Deacon St. Paul's Baptist Church </i>
+				</td>
+
+				<td valign="top" width="115">
+						<img src="photos/persons/Jo_White_2.jpg" width="115" border="1">
+
+				</td>
+				<td valign="top" width="210"><b>Jo White</b>
+					<br><i>Founder, Saving Our Youth<br>
+Guardian Angels Commander </i>
+				</td>
+
+				</tr><tr><td colspan="4">&nbsp;</td></tr><tr>
+
+				<td valign="top" width="115">
+						<img src="photos/persons/Wilson_Omega.jpg" width="115" border="1">
+
+				</td>
+				<td valign="top" width="210"><b>Omega Wilson</b>
+					<br>Board Member (2012-2014)<br> <br><i>Principal Hermitage High School<br>
+8301 Hungary Spring Road<br>
+Richmond, VA 23228<br>
+<br>
+Finance Committee</i>
+				</td>
+
+			<td width="325" colspan="2">&nbsp;</td>
+
+		</tr>
+		</table>
+
+	</td></tr>
+<tr><td>&nbsp;</td></tr>
+</table>
+
+
+<table align="center">
+<tr><td align="center" class="footer"></td></tr>
+<tr><td align="center" class="footer">Copyright <a href="login.cfm" class="footer">&copy;</a> 2002-2006 Boaz and Ruth. All rights reserved.</td></tr>
+</table>
+
+</body>
+</html>

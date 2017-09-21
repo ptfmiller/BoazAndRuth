@@ -1,0 +1,255 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+
+
+			<title>The mission and history of Boaz and Ruth.</title>
+
+					<meta name="keywords" content="faith-based, nonprofit, impoverished, crime-ridden, work skills, re-entry, released prisoners, disparate communities, restoration, jobless, economically depressed, trainees, challenge grant, local leadership">
+
+				<meta name="description" content="The mission and history of Boaz and Ruth">
+			<base href="http://www.boazandruth.com/">
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script src="/scripts/jquery.carousel.min.js" type="text/javascript"></script>
+	<script language="javascript" type="text/javascript" src="/scripts/scripts.js"></script>
+
+	<link rel="STYLESHEET" type="text/css" href="/styles_2010_new.css">
+	<script type="text/javascript">
+	$(document).ready(function(){
+	    $("div.logocarousel").carousel({
+	    	autoSlide: true,
+	    	loop: true,
+	    	autoSlideInterval: 4000,
+	    	delayAutoSlide: 0,
+	    	animSpeed: 2000,
+	    	nextBtn: false,
+	    	prevBtn: false
+	    });
+	    // used for news.cfm admin:
+	    $("input:radio[name='s_newsType']").click(function() {
+		    $('.desc').hide();
+		    $('#' + $("input:radio[name='s_newsType']:checked").val()).show();
+		});
+
+	});
+
+</script>
+</head>
+
+<body>
+
+<table width="1000" class="hdr_table" align="center" cellpadding="0" cellspacing="0">
+<tr><td width="230"><a href="/index.cfm"><img src="/images/logo_2010.gif" width="190" height="105" border="0"></a></td>
+	<td align="right" valign="bottom">
+<div style="text-align:right;padding-top:6px;">
+	<a href="https://www.facebook.com/boazandruthrva?ref=hl" target="_blank"><img src="/images/facebook.gif" border="0" hspace="6" alt="Click to visit our Facebook page"></a>
+</div>
+<div class="tagline" style="float:right;padding:10px 25px 10px 0px;">
+	Restoring Lives and Communities Through Your Support.</div>
+
+<table width="735" align="center">
+<tr><td align="center" valign="bottom" class="menu"><a href="/index.cfm" class="main_nav">HOME</a></td>
+	<td align="center" valign="bottom" class="menu"><a href="/index.cfm/topic/donation" class="main_nav">MAKE&nbsp;A<br>DONATION</a></td>
+	<td align="center" valign="bottom" class="menu"><a href="/index.cfm/topic/volunteer" class="main_nav">VOLUNTEER</a></td>
+	<td align="center" valign="bottom" class="menu"><a href="/contact.cfm" class="main_nav">CONTACT&nbsp;US</a></td>
+	<td align="center" valign="bottom" class="menu"><a href="/index.cfm/topic/directions" class="main_nav">DIRECTIONS</a></td>
+	<td align="center" valign="bottom" class="menu"><a href="/index.cfm/topic/businesses" class="main_nav">SUPPORT OUR<br>BUSINESSES</a></td>
+	<td align="center" valign="bottom" class="menu"><a href="/news.cfm" class="main_nav">NEWS</a></td>
+	<td align="center" valign="bottom" class="menu"><a href="/index.cfm/topic/partners" class="main_nav">PARTNERS</a></td>
+	<td align="center" valign="bottom" class="menu"><a href="/index.cfm/topic/people" class="main_nav">PEOPLE</a></td>
+</tr>
+</table>
+</td></tr>
+</table>
+
+<table width="1000" class="maintable" align="center" cellspacing="10" cellpadding="0">
+<tr>
+		<td valign="top" width="215" height="400">
+
+
+
+
+
+		<table width="200" align="center" cellspacing="2" cellpadding="8" style="background-color:white;text-align:center;margin-top:15px;">
+		<tr><td align="center" style="border:1px solid #043A2F;">
+				<a href="/documents/2012_(10_year)_case_statement._WEB._FINAL-2.pdf" target="_blank"><b>         Celebrating 10 Years of Empowering the Highland Park Community & Residents</b></a>
+				</td></tr>
+		</table>
+
+		<table width="200" align="center" cellspacing="2" cellpadding="8" style="background-color:white;text-align:center;margin-top:15px;">
+		<tr><td align="center" style="border:1px solid #043A2F;">
+				<a href="http://visitor.r20.constantcontact.com/d.jsp?llr=o68vmkeab&p=oi&m=1104155439022" target="_blank"><b>Sign up for our e-newsletter</b></a>
+				</td></tr>
+		</table>
+
+		<table width="200" align="center" cellspacing="2" cellpadding="8" style="background-color:white;text-align:center;margin-top:15px;">
+		<tr><td align="center" style="border:1px solid #043A2F;">
+				<a href="http://archive.constantcontact.com/fs187/1104155439022/archive/1120485310796.html" target="_blank"><b>Joy Report - Spring, 2015<br>
+For Back Issues of Joy Report see News</b></a>
+				</td></tr>
+		</table>
+
+		<table width="200" align="center" cellspacing="2" cellpadding="8" style="background-color:white;text-align:center;margin-top:15px;">
+		<tr><td align="center" style="border:1px solid #043A2F;">
+				<a href="http://www.boazandruth.com/index.cfm/topic/donation" target="_self"><b>Be Change agent for good!<br>
+DONATE NOW<br>
+Paypal, credit card <br>
+or<br>
+designate B&R to United Way, CVC, CFC and LG&S<br>
+<img src="/images/united_way_logo.jpg"></b></a>
+				</td></tr>
+		</table>
+
+<div><img src="/images/clear.gif" height="20"></div>
+
+
+<table align="center">
+
+
+
+	<tr><td align="center" class="teasertext">
+
+			<a href="/index.cfm/topic/achievements"><img src="/photos/photolinks/webgraduation.JPG" width="200" border="0" class="photolink"></a><br>
+			<a href="/index.cfm/topic/achievements" class="teasertext">Current Achievements</a>
+	</td></tr>
+	<tr><td><img src="/images/clear.gif" height="15"></td></tr>
+
+	<tr><td align="center" class="teasertext">
+
+		<a href="documents/city_edition.pdf"><img src="/photos/photolinks/dancing.JPG" width="200" border="0" class="photolink"></a><br>
+		<a href="documents/city_edition.pdf" class="white">Celebration at B&R</a>
+	</td></tr>
+	<tr><td><img src="/images/clear.gif" height="15"></td></tr>
+
+	<tr><td align="center" class="teasertext">
+
+			<a href="/index.cfm/topic/lprice"><img src="/photos/photolinks/weblloydstudies.jpg" width="200" border="0" class="photolink"></a><br>
+			<a href="/index.cfm/topic/lprice" class="teasertext">Lloyd Price, the original Boaz</a>
+	</td></tr>
+	<tr><td><img src="/images/clear.gif" height="15"></td></tr>
+
+	<tr><td align="center" class="teasertext">
+
+		<a href="documents/Cynthia.pdf"><img src="/photos/photolinks/webcynthia.jpg" width="200" border="0" class="photolink"></a><br>
+		<a href="documents/Cynthia.pdf" class="white">Cynthia, A Naomi in Spirit</a>
+	</td></tr>
+	<tr><td><img src="/images/clear.gif" height="15"></td></tr>
+
+	<tr><td align="center" class="teasertext">
+
+			<a href="/index.cfm/topic/merchanta"><img src="/photos/photolinks/HPMASP06board.JPG" width="200" border="0" class="photolink"></a><br>
+			<a href="/index.cfm/topic/merchanta" class="teasertext">Highland Park Retail Merchants Association</a>
+	</td></tr>
+	<tr><td><img src="/images/clear.gif" height="15"></td></tr>
+
+	<tr><td align="center" class="teasertext">
+
+		<a href="documents/Rosa_Jiggetts_with_Gov._Warner.pdf"><img src="/photos/photolinks/rosa.gov.JPG" width="200" border="0" class="photolink"></a><br>
+		<a href="documents/Rosa_Jiggetts_with_Gov._Warner.pdf" class="white">Rosa Receives Virginia Volunteer of the Year</a>
+	</td></tr>
+	<tr><td><img src="/images/clear.gif" height="15"></td></tr>
+
+
+</table>
+
+
+
+<table width="200" align="center">
+
+	<tr><td height="31">&nbsp;</td></tr>
+
+</table>
+
+
+
+<p align="center" class="fineprint_white">
+	Boaz and Ruth<br>
+	3030 Meadowbridge Rd<br>
+	P. O. Box 6129<br>
+	Richmond Va 23222<br>
+	804 329-4900
+</p>
+<div style="text-align:center;">
+<p><div style="text-align:center;">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="8CR7ZA3R74QS8">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+</p></div>
+	</td>
+
+	<td valign="top">
+		<table cellpadding="0" cellspacing="0">
+		<tr><td width="20" height="20">&nbsp;</td>
+			<td class="breadcrumbs" valign="top"><a href="index.cfm/topic/home" class="white">home</a>&nbsp;&nbsp;/&nbsp;&nbsp;vision</td></tr>
+		</table>
+
+		<table width="96%" align="center" class="content_table" cellspacing="10">
+		<tr><td class="headline">Veronica, First Apprentice, First graduate, New Staff</td></tr>
+		<tr><td valign="top">
+
+					<a href="story.cfm/ID/3"><img src="photos/stories/veronica_graduation.jpg" border="0" align="right" hspace="5" vspace="5" alt="Veronica, First Apprentice, First graduate, New Staff"></a>
+
+			<p>Veronica was the first trainee registered in the Boaz &amp; Ruth program (December 2002). Her &ldquo;life-lab&rdquo; was to run the sales floor for the first B&amp;R Harvest Store. Today Veronica stands with strength and pride in herself and has just been hired as a full staff member to coordinate our newest collaboration which will double the size of our program (August 2006). Veronica explains that it wasn&rsquo;t always like that.. </p>
+
+				<p align="center"><a href="story.cfm/ID/3">More Information</a>...</p>
+			</td></tr>
+		</table>
+
+	<img src="images/clear.gif" height="15"><br>
+
+		<table width="96%" align="center" class="content_table" cellspacing="10">
+		<tr><td width="95%" align="center" class="large_headline" valign="top">History and Vision</td>
+			<td width="1%" align="right" valign="top"><a href="friendly.cfm/topic/vision" target="_blank"><img src="images/print_friendly.gif" width="14" height="15" border="0" alt="Print this page"></a></td></tr>
+		<tr><td colspan="2" height="380" valign="top">
+			<p align="center"><strong>The Mission</strong></p><p><img style="width: 220px; height: 154px" src="photos/pages/history_3.jpg" alt="" hspace="5" vspace="5" width="220" height="154" align="right" />Boaz and Ruth, Inc. (B&amp;R) is a faith-based nonprofit strategically located in the heart of the impoverished and crime-ridden North District of Richmond, VA. Anchored by a 7500-square-foot used furniture store/training center and related business training ventures, <a href="index.cfm/topic/ruth" title="Biblical Story of Ruth">Boaz &amp; Ruth:</a> </p><ul><li>Provides life/work skills and re-entry assistance for released prisoners</li><li>Fosters commercial revitalization for the troubled community of Highland Park</li><li>Bridges culturally and economically disparate communities within the Richmond metropolitan area </li></ul><p align="left">LINK: <a href="index.cfm/topic/missionstrat" title="Mission Strategies">Mission Strategies</a></p><p align="center"><strong>History</strong></p><p><img style="width: 162px; height: 220px" src="photos/pages/history_2.jpg" alt="" hspace="5" vspace="5" width="162" height="220" align="left" />A mighty river never comes into existence by itself, but is the result of many streams all coming together into one strong body. So it is with <em>Boaz and Ruth</em>. While Martha Rollins was building Martha&rsquo;s Mixture, Rosa Jiggets was selling food out of a bus and praying. Charlie Summers was developing his experience in North Carolina, Ellen Robertson was becoming politically active and Lloyd Price was following God&rsquo;s call to return to Highland Park. Clarence and Veronica were living their lives, not knowing that they were waiting for <em>Boaz and Ruth</em>, and the Courageous Customer was developing the means and resources that would be needed. All came together in good time &ndash; in God&rsquo;s time. Boaz and Ruth is not the story of any one person &ndash; it&rsquo;s the story of many people coming together out of their faith and loving concern for people in their city.</p><p><strong>Building the Dream:</strong> Beginning with the restoration of a neglected building in a severely depressed neighborhood, <em>Boaz &amp; Ruth</em> is restoring struggling individuals to productive lives, creating jobs, and generating an ever-widening &ldquo;force field&rdquo; of hope for a troubled community. </p><p><img style="width: 165px; height: 220px" src="photos/pages/history_1.jpg" alt="" hspace="5" vspace="5" width="165" height="220" align="right" />The concept for this intertwined business venture and social mission began with long-time Richmond antiques dealer, Martha Rollins (owner of Martha&rsquo;s Mixture, Ltd., repeatedly voted &ldquo;Richmond&rsquo;s Best Antique Store&rdquo;), who daily saw the tremendous resources of the wealthy coming in the front door of her shop and the severe need of the poor and often jobless folks living in the neighborhood behind the shop. She began to ask, &ldquo;How can these resources and needs be connected? What if surplus goods could be donated to provide inventory for a store that would employ and train those needing a second chance? Would not both the giver and the receiver benefit? Would not the appeal of potential bargains draw shoppers from throughout the city and thus assist both in economic development and cross-cultural connections?&rdquo;&nbsp;Those questions would lead to the founding of <em>Boaz &amp; Ruth</em>.</p><p><strong>Sharing the Dream:</strong> In late 2001, Martha shared her vision with a women&rsquo;s roundtable to which she belonged. The dream grew and became a plan. One of the women, Ellen Robertson, said she had an empty building in the Highland Park neighborhood, an old firehouse that could be used to house the envisioned store. But Martha was concerned that customers would be too afraid to come to this economically depressed, crime-ridden neighborhood in north Richmond. Shortly thereafter, a Martha&rsquo;s Mixture customer called, offering to donate a houseful of valuable designer furniture to the cause, if storage space could be found. Temporarily setting aside her concerns, Martha got permission to store the furniture in the old firehouse. </p><p>Buying a used truck and driving around the neighborhood, Martha began to see Highland Park through God&rsquo;s eyes. Soon, rather than being an uncomfortable area to be avoided, it became a place with great unrecognized gifts and resources just waiting to be released. Martha became known as the &ldquo;white lady in the grey van.&rdquo; That&rsquo;s how she came across Clarence and Veronica, two jobless folks needing a second chance. They helped fill the firehouse with the donated furniture, and a short time later became the program&rsquo;s first trainees.</p><p><strong>The Dream Becomes Real:</strong> In the summer of 2002, a customer of Martha&rsquo;s Mixture - the &quot;Courageous Customer&quot;&nbsp;put up $150,000 in a challenge grant to get <em>Boaz &amp; Ruth</em> started. It was matched by First Presbyterian Church. By October, an old hardware store was purchased and preparations began for the initial training programs. </p><p>Charlie Summers (Pastor of First Presbyterian Church in Richmond) shared from his experiences doing similar work in North Carolina, counseling Martha that her dream would not succeed without local leadership from the neighborhood. Meanwhile, Rosa Jiggets had been praying for something to happen in Highland Park. One day while driving down the street she saw the &ldquo;white lady in the grey van&rdquo; she had been hearing about. The women began to talk, and Highland Park hasn&rsquo;t been the same since. Rosa began taking Martha (her &ldquo;Soul Sister&rdquo;) around Highland Park, opening doors that would probably have remained closed to her before.</p><p>Lloyd Price entered the B&amp;R picture in August 2002 when he too met the white lady in the grey van, and his dream of a holistic transformation of the Highland Park community joined with Martha&#39;s. Together they open the doors of <em>Boaz &amp; Ruth</em> in December 2002.</p><p>And on it goes. Today (mid-2006), the program is growing in every way imaginable. The work is hard and there are no easy answers, but the success stories far outweigh the struggles. People&rsquo;s lives are being changed, a community is being transformed and a city is beginning to come together. More streams are being formed out of which even mightier rivers will grow, bringing living water to thirsty people.</p>
+			</td></tr>
+		</table>
+
+	<img src="images/clear.gif" height="15"><br> <table width="96%" align="center" class="content_table" cellspacing="10">
+<tr><td colspan="2" class="tagline" align="center">Support Our Mission . . . Support Our Businesses</td></tr>
+<tr><td width="330">
+
+	<a href="/index.cfm/topic/firehouse"><img src="/images/firehouse_rgb.jpg" width="330" border="0"></a></td>
+	<td width="330">
+
+    	<a href="/index.cfm/topic/harvest"><img src="/images/harvest_rgb.jpg" width="330" border="0"></a></td></tr>
+
+
+<tr><td><a href="/index.cfm/topic/sunnydays"><img src="/images/sunny_days_rgb.jpg" width="330" border="0"></a></td>
+	<td><a href="/index.cfm/topic/moving"><img src="/images/mountainmovers_rgb.jpg" width="330" border="0"></a></td></tr>
+
+<tr><td colspan="2" align="center"><a href="/story.cfm/ID/83"><img src="/images/estate_sale_services_rgb.jpg" width="330" border="0"></a></td></tr>
+</table>
+<img src="/images/clear.gif" height="15"><br>
+
+
+
+<img src="/images/clear.gif" height="15"><br>
+	</td></tr>
+
+</table>
+
+<table align="center">
+<tr><td align="center" class="footer"></td></tr>
+<tr><td align="center" class="footer">Copyright <a href="/login.cfm" class="footer">&copy;</a> 2002-2017 Boaz and Ruth. All rights reserved.</td></tr>
+</table>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-825902-36");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+</html>
